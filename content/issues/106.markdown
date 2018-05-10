@@ -84,3 +84,4 @@ a toolkit for building declarative, RESTful web apps.
 -   May 14: [Category Theory for Computer Programmers](https://www.meetup.com/Pittsburgh-Functional-Programming-Meetup/events/250064846/) in Pittsburgh, Pennsylvania, United States
 -   May 15: [A typeclass primer for OO people](https://www.meetup.com/Scala-Berlin-Brandenburg/events/250299718/) in Berlin, Germany
 -   May 16: [London Haskell May 2018](https://www.meetup.com/London-Haskell/events/250127733/) in London, England
+-   May 23: [Self-paced Haskell Study Group in Dublin, Ireland](https://www.meetup.com/haskell-dublin-meetup/events/250343256/)
